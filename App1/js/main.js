@@ -1,5 +1,5 @@
 ﻿// Your code here!
-function myFunction(a, b) {
+function myFunction(a,b) {
     var a = 5;
     var b = 5;
     return a + b; 
